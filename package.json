@@ -1,0 +1,22 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedList exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenaroArredondo-Ksquare/linkedList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenaroArredondo-Ksquare/linkedList/issues"
+  },
+  "homepage": "https://github.com/GenaroArredondo-Ksquare/linkedList#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
